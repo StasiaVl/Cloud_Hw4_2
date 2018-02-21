@@ -1,6 +1,6 @@
 App Engine application for the Udacity training course.
 
-##[Cloud Link][7]
+## [Cloud Link][7]
 
 ## Products
 - [App Engine][1]
